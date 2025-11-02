@@ -1,5 +1,5 @@
-![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/ci.yml/badge.svg)
-[![codecov](https://codecov.io/gh/<OWNER>/<REPOSITORY>/branch/main/graph/badge.svg)](https://codecov.io/gh/<OWNER>/<REPOSITORY>)
+![CI](https://github.com/GiYmon/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/GiYmon/learn-cicd-typescript-starter/branch/main/graph/badge.svg)](https://codecov.io/gh/GiYmon/learn-cicd-typescript-starter)
 
 # learn-cicd-typescript-starter (Notely)
 
