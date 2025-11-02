@@ -1,4 +1,5 @@
-![alt text goes here](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/<OWNER>/<REPOSITORY>/branch/main/graph/badge.svg)](https://codecov.io/gh/<OWNER>/<REPOSITORY>)
 
 # learn-cicd-typescript-starter (Notely)
 
